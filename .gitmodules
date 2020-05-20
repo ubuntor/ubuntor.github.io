@@ -1,0 +1,3 @@
+[submodule "karplus_strong_web_audio"]
+	path = karplus_strong_web_audio
+	url = https://github.com/ubuntor/karplus_strong_web_audio.git
