@@ -1,3 +1,5 @@
 uhh
 
-nothing here for now i guess
+~~nothing here for now i guess~~
+
+[Karplus-Strong in Web Audio](karplus_strong_web_audio/)
