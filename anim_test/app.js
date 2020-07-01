@@ -11,7 +11,7 @@ request.onload = function() {
         const start = Math.min(cycle[0], cycle[1]);
         const end = Math.max(cycle[0], cycle[1]);
         const delta = cycle[0] > cycle[1] ? 1 : -1;
-        const length = end - start;
+        const length = end - start + 1;
         // every 1/4 second, add cycle[2] to a counter, div by 0x1333 for number of steps
         const speed = cycle[2];
         for (var i = start; i <= end; i++) {
