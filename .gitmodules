@@ -1,3 +1,7 @@
 [submodule "karplus_strong_web_audio"]
 	path = karplus_strong_web_audio
 	url = https://github.com/ubuntor/karplus_strong_web_audio.git
+[submodule "blaseball/imposition"]
+	path = blaseball/imposition
+	url = https://github.com/ubuntor/blaseball_imposition.git
+	branch = main
